@@ -1,0 +1,37 @@
+#header-id{
+    text-align: center;
+}
+#video{
+    width: 600px;
+}
+header{
+    text-align: center;
+}
+article{
+    text-align: center;
+    background-color: rgb(158, 197, 213);
+}
+#submit{
+    color: red;
+}
+@media(max-width:600px) { 
+    body{background-color:rgb(139, 143, 143);} 
+    article{
+        background-color: gainsboro;
+    }
+}
+#nav-bar{
+    background-color: goldenrod;
+}
+h2{ text-align: center;
+    background-color: gold;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(203, 222, 227);
+    opacity: 1;
+    font-weight: bolder;
+    
+    
+}
